@@ -1,0 +1,1 @@
+web: gunicorn ats_score_api:app
